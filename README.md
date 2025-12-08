@@ -12,12 +12,12 @@
   </p>
    
 </div>
----
+
 
 ## 🚀 About Me
 
 
-<img align="right" alt="coding" width="400" margin="10px" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
+<img align="right" alt="coding" width="400" margin="10px" src="[https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif"](https://cdnl.iconscout.com/lottie/premium/preview-watermark/woman-develops-website-animation-gif-download-13630043.mp4)>
 
 ```python
 const Cancy = {
