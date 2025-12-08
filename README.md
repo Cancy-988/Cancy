@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 
-<img align="right" alt="coding" width="400" margin="10px" src="[https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif"](https://cdnl.iconscout.com/lottie/premium/preview-watermark/woman-develops-website-animation-gif-download-13630043.mp4)>
+<img align="right" alt="coding" width="400" margin="10px" src="https://icons8.com/illustrations/illustration/beam-woman-sitting-at-desk-and-programming--animated?utm_source=chatgpt.com
 
 ```python
 const Cancy = {
@@ -36,7 +36,7 @@ const Cancy = {
     },
 }
 ```
-<p align="left"><a href="https://instagram.com/cancy98863" target="blank"> <img src="https://img.shields.io/badge/Instagram-cancy98863-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="cancy98863" /> </a></p>
+<p align="left"> <a href="https://www.instagram.com/cancy98863" target="blank"><img src="https://img.shields.io/badge/Instagram-cancy98863.01-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Cancy" /></a> </p>
 <br clear="right"/>
 ---
 
@@ -44,5 +44,40 @@ const Cancy = {
 
 <div align="center">
 
-### Languages
 
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### Data Science Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
