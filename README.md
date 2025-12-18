@@ -17,7 +17,9 @@
 ## 🚀 About Me
 
 
-<img align="right" alt="coding" width="400" margin="10px" src="https://icons8.com/illustrations/illustration/beam-woman-sitting-at-desk-and-programming--animated?utm_source=chatgpt.com
+<img align="right" alt="coding" width="400" margin="10px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" >
+
+
 
 ```python
 const Cancy = {
